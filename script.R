@@ -2,7 +2,7 @@
 #### Change Detection between 1988 and 2020 
 ####  - a reproduction of Bachelor thesis by Katrin Wernicke - 
 # download data here (until May 3rd 2021): 
-# https://gigamove.rz.rwth-aachen.de/d/id/hqEeT4cdGNhpPA
+# https://gigamove.rz.rwth-aachen.de/d/id/eWpSSM6GuT83fB	
 
 ## load packages 
 library(raster)
